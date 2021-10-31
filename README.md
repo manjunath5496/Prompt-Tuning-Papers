@@ -44,7 +44,8 @@ for Few-Shot Text Classification</a></li>
 
 <li><a target="_blank" href="https://github.com/manjunath5496/Prompt-Tuning-Papers/blob/master/p(20).pdf" style="text-decoration:none;">Adapting Language Models for Zero-shot Learning by Meta-tuning on Dataset and Prompt Collections</a></li>
 
-<li><a target="_blank" href="https://github.com/manjunath5496/Prompt-Tuning-Papers/blob/master/p(21).pdf" style="text-decoration:none;">The Benefits and Costs of Writing a POSIX Kernel in a High-Level Language</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Prompt-Tuning-Papers/blob/master/p(21).pdf" style="text-decoration:none;">P-Tuning v2: Prompt Tuning Can Be
+Comparable to Fine-tuning Universally Across Scales and Tasks</a></li>
 <li><a target="_blank" href="https://github.com/manjunath5496/Prompt-Tuning-Papers/blob/master/p(22).pdf" style="text-decoration:none;">Finetuned Language Models
 Are Zero-shot Learners</a></li> 
  <li><a target="_blank" href="https://github.com/manjunath5496/Prompt-Tuning-Papers/blob/master/p(23).pdf" style="text-decoration:none;">Exploring the Limits of Transfer Learning with a Unified Text-to-Text Transformer</a></li> 
