@@ -53,84 +53,78 @@ Are Zero-shot Learners</a></li>
    <li><a target="_blank" href="https://github.com/manjunath5496/Prompt-Tuning-Papers/blob/master/p(24).pdf" style="text-decoration:none;">How Many Data Points is a PromptWorth?</a></li>
  
    <li><a target="_blank" href="https://github.com/manjunath5496/Prompt-Tuning-Papers/blob/master/p(25).pdf" style="text-decoration:none;">Differentiable Prompt Makes Pre-trained Language Models Better Few-shot Learners</a></li>                              
- <li><a target="_blank" href="https://github.com/manjunath5496/Prompt-Tuning-Papers/blob/master/p(26).pdf" style="text-decoration:none;">Certifying a File System Using
-Crash Hoare Logic: Correctness in the Presence of Crashes</a></li>
- <li><a target="_blank" href="https://github.com/manjunath5496/Prompt-Tuning-Papers/blob/master/p(27).pdf" style="text-decoration:none;">A Differential Approach to
-Undefined Behavior Detection</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Prompt-Tuning-Papers/blob/master/p(26).pdf" style="text-decoration:none;">Why Do Pretrained Language Models Help in Downstream Tasks? An Analysis of Head and Prompt Tuning</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Prompt-Tuning-Papers/blob/master/p(27).pdf" style="text-decoration:none;">CPT: Colorful Prompt Tuning For Pre-trained Vision-language Models</a></li>
    
  
-   <li><a target="_blank" href="https://github.com/manjunath5496/Prompt-Tuning-Papers/blob/master/p(28).pdf" style="text-decoration:none;">Reducing Pause Times with Clustered Collection</a></li>
+   <li><a target="_blank" href="https://github.com/manjunath5496/Prompt-Tuning-Papers/blob/master/p(28).pdf" style="text-decoration:none;">Thinking Aloud:
+Dynamic Context Generation Improves Zero-Shot Reasoning Performance of GPT-2</a></li>
  
-   <li><a target="_blank" href="https://github.com/manjunath5496/Prompt-Tuning-Papers/blob/master/p(29).pdf" style="text-decoration:none;">Reducing Pause Times With Clustered Collection [Cody Cutler] </a></li>                              
+   <li><a target="_blank" href="https://github.com/manjunath5496/Prompt-Tuning-Papers/blob/master/p(29).pdf" style="text-decoration:none;">A Good Prompt Is Worth Millions of Parameters? Low-resource Prompt-based Learning for Vision-Language Models</a></li>                              
 
-  <li><a target="_blank" href="https://github.com/manjunath5496/Prompt-Tuning-Papers/blob/master/p(30).pdf" style="text-decoration:none;">Certifying Program Execution with Secure Processors</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/Prompt-Tuning-Papers/blob/master/p(30).pdf" style="text-decoration:none;">CONTROL PREFIXES for Text Generation</a></li>
  
-   <li><a target="_blank" href="https://github.com/manjunath5496/Prompt-Tuning-Papers/blob/master/p(31).pdf" style="text-decoration:none;">Providing a Shared File System in the Hare
-POSIX Multikernel</a></li> 
-    <li><a target="_blank" href="https://github.com/manjunath5496/Prompt-Tuning-Papers/blob/master/p(32).pdf" style="text-decoration:none;">Linux kernel vulnerabilities:
-State-of-the-art defenses and open problems</a></li> 
+   <li><a target="_blank" href="https://github.com/manjunath5496/Prompt-Tuning-Papers/blob/master/p(31).pdf" style="text-decoration:none;">Factual Probing Is [MASK]: Learning vs. Learning to Recall</a></li> 
+    <li><a target="_blank" href="https://github.com/manjunath5496/Prompt-Tuning-Papers/blob/master/p(32).pdf" style="text-decoration:none;">True Few-Shot Learning with Language Models</a></li> 
 
-   <li><a target="_blank" href="https://github.com/manjunath5496/Prompt-Tuning-Papers/blob/master/p(33).pdf" style="text-decoration:none;">Robust and Efficient Data Management for a Distributed Hash Table</a></li>                              
+   <li><a target="_blank" href="https://github.com/manjunath5496/Prompt-Tuning-Papers/blob/master/p(33).pdf" style="text-decoration:none;">Paradigm Shift in Natural Language Processing</a></li>                              
 
-  <li><a target="_blank" href="https://github.com/manjunath5496/Prompt-Tuning-Papers/blob/master/p(34).pdf" style="text-decoration:none;">Choosing Internet Paths with High Bulk Transfer Capacity</a></li> 
+  <li><a target="_blank" href="https://github.com/manjunath5496/Prompt-Tuning-Papers/blob/master/p(34).pdf" style="text-decoration:none;">SentiPrompt: Sentiment Knowledge Enhanced Prompt-Tuning for Aspect-Based Sentiment Analysis</a></li> 
  
-  <li><a target="_blank" href="https://github.com/manjunath5496/Prompt-Tuning-Papers/blob/master/p(35).pdf" style="text-decoration:none;">Melody: A Distributed Music-Sharing System</a></li> 
+  <li><a target="_blank" href="https://github.com/manjunath5496/Prompt-Tuning-Papers/blob/master/p(35).pdf" style="text-decoration:none;">Constrained Language Models Yield Few-Shot Semantic Parsers</a></li> 
 
-  <li><a target="_blank" href="https://github.com/manjunath5496/Prompt-Tuning-Papers/blob/master/p(36).pdf" style="text-decoration:none;">A Keyword-Set Search System for Peer-to-Peer
-Networks</a></li> 
+  <li><a target="_blank" href="https://github.com/manjunath5496/Prompt-Tuning-Papers/blob/master/p(36).pdf" style="text-decoration:none;">PTR: Prompt Tuning with Rules for Text Classification</a></li> 
  
-<li><a target="_blank" href="https://github.com/manjunath5496/Prompt-Tuning-Papers/blob/master/p(37).pdf" style="text-decoration:none;">Herodotus: A Peer-to-PeerWeb Archival System</a></li>
- <li><a target="_blank" href="https://github.com/manjunath5496/Prompt-Tuning-Papers/blob/master/p(38).pdf" style="text-decoration:none;">A case study of server selection</a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/Prompt-Tuning-Papers/blob/master/p(39).pdf" style="text-decoration:none;">The Scalable Commutativity Rule:
-Designing Scalable Software for Multicore Processors</a></li>
- <li><a target="_blank" href="https://github.com/manjunath5496/Prompt-Tuning-Papers/blob/master/p(40).pdf" style="text-decoration:none;">Programming language optimizations for modular router configurations</a></li>                              
-<li><a target="_blank" href="https://github.com/manjunath5496/Prompt-Tuning-Papers/blob/master/p(41).pdf" style="text-decoration:none;">Fast Bug Finding in Lock-Free Data Structures with
-CB-DPOR</a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/Prompt-Tuning-Papers/blob/master/p(42).pdf" style="text-decoration:none;">Finding Linearization Violations in Lock-Free
-Concurrent Data Structures</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Prompt-Tuning-Papers/blob/master/p(37).pdf" style="text-decoration:none;">The Power of Prompt Tuning for Low-Resource Semantic Parsing</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Prompt-Tuning-Papers/blob/master/p(38).pdf" style="text-decoration:none;">Parameter-Efficient Transfer Learning for NLP</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Prompt-Tuning-Papers/blob/master/p(39).pdf" style="text-decoration:none;">Calibrate Before Use:
+Improving Few-Shot Performance of Language Models</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Prompt-Tuning-Papers/blob/master/p(40).pdf" style="text-decoration:none;">NSP-BERT: A Prompt-based Zero-Shot Learner Through an Original Pre-training Task —— Next Sentence Prediction</a></li>                              
+<li><a target="_blank" href="https://github.com/manjunath5496/Prompt-Tuning-Papers/blob/master/p(41).pdf" style="text-decoration:none;">Do Prompt-Based Models Really Understand
+the Meaning of their Prompts?</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Prompt-Tuning-Papers/blob/master/p(42).pdf" style="text-decoration:none;">AUTOPROMPT: Eliciting Knowledge from Language Models with Automatically Generated Prompts</a></li>
  
-  <li><a target="_blank" href="https://github.com/manjunath5496/Prompt-Tuning-Papers/blob/master/p(43).pdf" style="text-decoration:none;">The Scalable Commutativity Rule:
-Designing Scalable Software for Multicore Processors</a></li>
- <li><a target="_blank" href="https://github.com/manjunath5496/Prompt-Tuning-Papers/blob/master/p(44).pdf" style="text-decoration:none;">SCTP in Go</a></li>
-   <li><a target="_blank" href="https://github.com/manjunath5496/Prompt-Tuning-Papers/blob/master/p(45).pdf" style="text-decoration:none;">Cloud Based Web Scraping for Big Data Applications</a></li>  
+  <li><a target="_blank" href="https://github.com/manjunath5496/Prompt-Tuning-Papers/blob/master/p(43).pdf" style="text-decoration:none;">Cutting Down on Prompts and Parameters: Simple Few-Shot Learning with Language Models</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Prompt-Tuning-Papers/blob/master/p(44).pdf" style="text-decoration:none;">Label Verbalization and Entailment
+for Effective Zero- and Few-Shot Relation Extraction</a></li>
+   <li><a target="_blank" href="https://github.com/manjunath5496/Prompt-Tuning-Papers/blob/master/p(45).pdf" style="text-decoration:none;">Avoiding Inference Heuristics in Few-shot Prompt-based Finetuning</a></li>  
    
-<li><a target="_blank" href="https://github.com/manjunath5496/Prompt-Tuning-Papers/blob/master/p(46).pdf" style="text-decoration:none;">Conclave: secure multi-party computation on big data</a></li> 
+<li><a target="_blank" href="https://github.com/manjunath5496/Prompt-Tuning-Papers/blob/master/p(46).pdf" style="text-decoration:none;">Revisiting Self-Training for Few-Shot Learning of Language Model</a></li> 
                              
-<li><a target="_blank" href="https://github.com/manjunath5496/Prompt-Tuning-Papers/blob/master/p(47).pdf" style="text-decoration:none;">Corey: An Operating System for Many Cores</a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/Prompt-Tuning-Papers/blob/master/p(48).pdf" style="text-decoration:none;">CPHash: A Cache-Partitioned Hash Table</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Prompt-Tuning-Papers/blob/master/p(47).pdf" style="text-decoration:none;">The Power of Scale for Parameter-Efficient Prompt Tuning</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Prompt-Tuning-Papers/blob/master/p(48).pdf" style="text-decoration:none;">PPT: Pre-trained Prompt Tuning for Few-shot Learning</a></li>
 
-<li><a target="_blank" href="https://github.com/manjunath5496/Prompt-Tuning-Papers/blob/master/p(49).pdf" style="text-decoration:none;">Scaling Address-Space Operations on Linux with
-TSX</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Prompt-Tuning-Papers/blob/master/p(49).pdf" style="text-decoration:none;">Improving and Simplifying Pattern Exploiting Training</a></li>
                               
-<li><a target="_blank" href="https://github.com/manjunath5496/Prompt-Tuning-Papers/blob/master/p(50).pdf" style="text-decoration:none;">Why does cryptographic software fail?
-A case study and open problems</a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/Prompt-Tuning-Papers/blob/master/p(51).pdf" style="text-decoration:none;">In Defense of Wireless Carrier Sense</a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/Prompt-Tuning-Papers/blob/master/p(52).pdf" style="text-decoration:none;">Verifying concurrent software using movers in CSPEC</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Prompt-Tuning-Papers/blob/master/p(50).pdf" style="text-decoration:none;">Fantastically Ordered Prompts and Where to Find Them: Overcoming Few-Shot Prompt Order Sensitivity</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Prompt-Tuning-Papers/blob/master/p(51).pdf" style="text-decoration:none;">GPT3Mix: Leveraging Large-scale Language Models for Text Augmentation</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Prompt-Tuning-Papers/blob/master/p(52).pdf" style="text-decoration:none;">PADA: A Prompt-based Autoregressive Approach for Adaptation to Unseen Domains</a></li>
 
-<li><a target="_blank" href="https://github.com/manjunath5496/Prompt-Tuning-Papers/blob/master/p(53).pdf" style="text-decoration:none;">The Little Manual of
-API Design</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Prompt-Tuning-Papers/blob/master/p(53).pdf" style="text-decoration:none;">Exploiting Cloze Questions for Few Shot Text Classification and Natural Language Inference</a></li>
  
-<li><a target="_blank" href="https://github.com/manjunath5496/Prompt-Tuning-Papers/blob/master/p(54).pdf" style="text-decoration:none;">Design and Applications of a Secure and Decentralized Distributed Hash Table </a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Prompt-Tuning-Papers/blob/master/p(54).pdf" style="text-decoration:none;">How Can We Know What Language Models Know? </a></li>
 
-<li><a target="_blank" href="https://github.com/manjunath5496/Prompt-Tuning-Papers/blob/master/p(55).pdf" style="text-decoration:none;">Recovering from intrusions in distributed systems with DARE</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Prompt-Tuning-Papers/blob/master/p(55).pdf" style="text-decoration:none;">It's Not Just Size That Matters:
+Small Language Models Are Also Few-Shot Learners</a></li>
  
-  <li><a target="_blank" href="https://github.com/manjunath5496/Prompt-Tuning-Papers/blob/master/p(56).pdf" style="text-decoration:none;">Verifying a high-performance crash-safe file system using a tree specification </a></li>                              
+  <li><a target="_blank" href="https://github.com/manjunath5496/Prompt-Tuning-Papers/blob/master/p(56).pdf" style="text-decoration:none;">Knowledgeable Prompt-tuning:
+Incorporating Knowledge into Prompt Verbalizer for Text Classification </a></li>                              
 
-  <li><a target="_blank" href="https://github.com/manjunath5496/Prompt-Tuning-Papers/blob/master/p(57).pdf" style="text-decoration:none;">No Silver Bullet — Essence and Accident in Software Engineering</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/Prompt-Tuning-Papers/blob/master/p(57).pdf" style="text-decoration:none;">MSP: Multi-Stage Prompting for Making
+Pre-trained Language Models Better Translators</a></li>
  
-   <li><a target="_blank" href="https://github.com/manjunath5496/Prompt-Tuning-Papers/blob/master/p(58).pdf" style="text-decoration:none;">Proving confidentiality in a file system using DISKSEC</a></li>
-    <li><a target="_blank" href="https://github.com/manjunath5496/Prompt-Tuning-Papers/blob/master/p(59).pdf" style="text-decoration:none;">Calvin: Fast Distributed Transactions
-for Partitioned Database Systems</a></li>
+   <li><a target="_blank" href="https://github.com/manjunath5496/Prompt-Tuning-Papers/blob/master/p(58).pdf" style="text-decoration:none;">Template-free Prompt Tuning for Few-shot NER</a></li>
+    <li><a target="_blank" href="https://github.com/manjunath5496/Prompt-Tuning-Papers/blob/master/p(59).pdf" style="text-decoration:none;">Learning How to Ask: Querying LMs with Mixtures of Soft Prompts</a></li>
  
-  <li><a target="_blank" href="https://github.com/manjunath5496/Prompt-Tuning-Papers/blob/master/p(60).pdf" style="text-decoration:none;">Executing Web Application Queries on a Partitioned Database </a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/Prompt-Tuning-Papers/blob/master/p(60).pdf" style="text-decoration:none;">What Makes Good In-Context Examples for GPT-3? </a></li>
  
-   <li><a target="_blank" href="https://github.com/manjunath5496/Prompt-Tuning-Papers/blob/master/p(61).pdf" style="text-decoration:none;">DNS Performance and the Effectiveness of Caching</a></li>
+   <li><a target="_blank" href="https://github.com/manjunath5496/Prompt-Tuning-Papers/blob/master/p(61).pdf" style="text-decoration:none;">Language Models as Knowledge Bases?</a></li>
  
-   <li><a target="_blank" href="https://github.com/manjunath5496/Prompt-Tuning-Papers/blob/master/p(62).pdf" style="text-decoration:none;">Phase Reconciliation for Contended In-Memory Transactions</a></li>
+   <li><a target="_blank" href="https://github.com/manjunath5496/Prompt-Tuning-Papers/blob/master/p(62).pdf" style="text-decoration:none;">Automatically IdentifyingWords That Can Serve as Labels for Few-Shot Text Classification</a></li>
  
-   <li><a target="_blank" href="https://github.com/manjunath5496/Prompt-Tuning-Papers/blob/master/p(63).pdf" style="text-decoration:none;">Locating Cache Performance Bottlenecks Using Data Profiling</a></li>                              
+   <li><a target="_blank" href="https://github.com/manjunath5496/Prompt-Tuning-Papers/blob/master/p(63).pdf" style="text-decoration:none;">Prompt Tuning or Fine-Tuning - Investigating Relational Knowledge in Pre-Trained Language Models</a></li>                              
 
-  <li><a target="_blank" href="https://github.com/manjunath5496/Prompt-Tuning-Papers/blob/master/p(64).pdf" style="text-decoration:none;">Understanding Real-World Concurrency Bugs in Go</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/Prompt-Tuning-Papers/blob/master/p(64).pdf" style="text-decoration:none;">Prompt Programming for Large Language Models: Beyond the Few-Shot Paradigm</a></li>
  
    </ul>
      
